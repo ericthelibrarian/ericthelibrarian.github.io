@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric the Librarian</title>
+    <link>/</link>
+    <description>Recent content on Eric the Librarian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 14 Apr 2020 11:19:53 -0400</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 14 Apr 2020 11:19:53 -0400</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This page is all about Eric. He is a librarian in New Jersey.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>/posts/first-post/</link>
+      <pubDate>Tue, 14 Apr 2020 11:19:40 -0400</pubDate>
+      
+      <guid>/posts/first-post/</guid>
+      <description>Hello! This is Eric&amp;rsquo;s first post. Isn&amp;rsquo;t it great?</description>
+    </item>
+    
+  </channel>
+</rss>

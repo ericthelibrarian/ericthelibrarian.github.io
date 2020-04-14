@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Eric the Librarian</title>
+		<link>/posts/</link>
+		<description>Recent content in Posts on Eric the Librarian</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Tue, 14 Apr 2020 11:19:40 -0400</lastBuildDate>
+		<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>First Post</title>
+			<link>/posts/first-post/</link>
+			<pubDate>Tue, 14 Apr 2020 11:19:40 -0400</pubDate>
+			
+			<guid>/posts/first-post/</guid>
+			<description>Hello! This is Eric&amp;rsquo;s first post. Isn&amp;rsquo;t it great?</description>
+			<content type="html"><![CDATA[<h2 id="hello">Hello!</h2>
+<p><em>This is Eric&rsquo;s first post.
+Isn&rsquo;t it great?</em></p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
